@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Full-stack+web+and+Blockchain+Developer.++++++++++)](https://git.io/typing-svg)
 
-<h1 align="center">Hi 👋, I'm DIWAKAR KASHYAP</h1>
+<h1 align="center">Hi 👋, I'm Aditya Pratap Singh</h1>
 <!-- <h3 align="center" color=red>A Fullstack Web & Blockchain Developer </h3> -->
 
 
@@ -15,8 +15,7 @@
 
 - 🌱 I’m currently learning **Angular**, doing **Open Source** 
 - 💬 Ask me about **JavaScript, Typescript, React js, Next js, Dapp**
-- 👨‍💻 My portfolio is available at https://diwakar-portfolio.vercel.app/
-- 📫 How to reach me **didk9675@gmail.com** 
+- 📫 How to reach me **as0742004@gmail.com** 
 - ⚡Fun fact **love Error**
 
 <h3 align="left">Connect with me:</h3>
@@ -35,14 +34,6 @@
 
 </p>
 
-<h3 align="left">Blogs:</h3>
-<p align="left">
-     <a href="https://dev.to/diwakarkashyap" target="blank"><img align="center"
-            src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="@diwakar_766" height="40"
-            width="40" /></a>
-    <a href="https://diwakarkashyap.hashnode.dev/" target="blank"><img align="center"
-            src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" height="40" width="40" /></a>
-</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
