@@ -77,7 +77,6 @@
 
 <table>
   <tr>
-    ![aditorito's Stats](https://github-readme-stats.vercel.app/api?username=aditorito&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
     <td><img src=https://github-readme-stats.vercel.app/api?username=aditorito&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"  display=block width=100% height=auto alt="1"></td>
     <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditorito&theme=vue-dark&hide_border=true" alt="pratikgarai" /></td>
    </tr>
