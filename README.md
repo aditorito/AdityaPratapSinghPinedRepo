@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Full-stack+web.++++++++++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Full-stack+web+developer.++++++++++)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm Aditya Pratap Singh</h1>
 <!-- <h3 align="center" color=red>A Fullstack Web & Open Source </h3> -->
